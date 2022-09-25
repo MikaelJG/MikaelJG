@@ -1,4 +1,18 @@
-### Hi there 👋 I'm Mikael!
+<h1 align="center">Hi 👋, I'm Casey</h1>
+<h3 align="center">Recent web dev bootcamp grad, hopefully a full-time Full Stack Developer soon!</h3>
+
+- 🔭 I’m currently working on [minder](minder.quest)
+
+- 🌱 I’m currently learning **React, Rails & further API integrations**
+
+- 🤝 I’m looking for help with **finding a job ;)**
+
+- ⚡ Fun fact **I am a sleep walker, talker and puncher!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mikaeljgonsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mikael Gonsalves" height="30" width="40" /></a>
+</p>
 
 
 <h5 align="left"> Currently working on my portfolio.</h5>
