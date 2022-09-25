@@ -1,23 +1,12 @@
-<h1 align="center">Hi 👋, I'm Casey</h1>
-<h3 align="center">Recent web dev bootcamp grad, hopefully a full-time Full Stack Developer soon!</h3>
-
-- 🔭 I’m currently working on [minder](minder.quest)
-
-- 🌱 I’m currently learning **React, Rails & further API integrations**
-
-- 🤝 I’m looking for help with **finding a job ;)**
-
-- ⚡ Fun fact **I am a sleep walker, talker and puncher!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mikaeljgonsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mikael Gonsalves" height="30" width="40" /></a>
-</p>
 
 
-<h5 align="left"> Currently working on my portfolio.</h5>
 
-<h5 align="left"> Curious? Here they are! _link_.</h5>
+
+<h1 align="center">Hi 👋, I'm Mikael</h1>
+
+- 🌱 I’m currently learning **React, Bash Script & Unity** with my friends!
+- ✨ I'm working on **My Portfolio**
+- ⚡ Fun fact **I once competed on Canada's national team!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -26,6 +15,10 @@
 <h3 align="left">Learning :</h3>
 <p> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/MikaelJG/lrn_bash/blob/master/bash_logo.png" alt="bash" width="60" height="60"/> </a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mikaeljgonsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mikael Gonsalves" height="30" width="40" /></a>
+</p>
 <!--
 **MikaelJG/MikaelJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
