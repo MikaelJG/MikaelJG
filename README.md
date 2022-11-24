@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey! </h1>
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/MikaelJG/lrn_bash/blob/master/slack-logo.png" alt="bash" width="70" height="70"/> </a> -  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/MikaelJG/lrn_bash/blob/master/asana-logo.svg" alt="bash" width="70" height="70"/> </a>   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/MikaelJG/lrn_bash/blob/master/pngegg.png" alt="bash" width="70" height="70"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/MikaelJG/lrn_bash/blob/master/slack-logo.png" alt="bash" width="70" height="70"/> </a>   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/MikaelJG/lrn_bash/blob/master/asana-logo.svg" alt="bash" width="70" height="70"/> </a>   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/MikaelJG/lrn_bash/blob/master/pngegg.png" alt="bash" width="70" height="70"/> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
