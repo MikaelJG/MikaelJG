@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">Hi there! </h2>
+<h2 align="center">Curiosity wins</h2>
 
 
 <h3 align="left">Project management</h3>
