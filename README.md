@@ -9,6 +9,10 @@
 
 <h2 align="left">Working on</h2>
 <a href="https://github.com/MikaelJG/noti" target="_blank"> <img src="https://github.com/MikaelJG/noti/blob/master/assets/noti_logo2.png" alt="noti" width="100" height="100"/> </a>  <a href="https://github.com/MikaelJG/resa" target="_blank"> <img src="https://github.com/MikaelJG/resa/blob/master/assets/resa_logo3.png" alt="resa" width="100" height="100"/></a></p>
+  
+
+<h3 align="left">Currently learning</h3>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="50" height="50"/> </a>
 
 <h3 align="left">Contact</h3>
 <p align="left">
