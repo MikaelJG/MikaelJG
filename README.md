@@ -12,11 +12,11 @@
   
 
 <h3 align="left">Currently learning</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="50" height="50"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" width="50" height="50"/> </a>
 
 <h3 align="left">Contact</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mikaeljgonsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="Mikael Gonsalves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikaeljgonsalves" target="blank"><img align="center" src="" alt="Mikael Gonsalves" height="30" width="40" /></a>
 </p>
 <!-- 
 **MikaelJG/MikaelJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
