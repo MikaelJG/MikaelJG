@@ -9,7 +9,7 @@
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" alt="lua" width="70" height="70"/> </a></p>
 
 <h2 align="left">Working on</h2>
-<a href="https://github.com/MikaelJG/noti" target="_blank"> <img src="https://github.com/MikaelJG/noti/blob/master/assets/noti_logo2.png" alt="noti" width="100" height="100"/> </a>  <a href="https://github.com/MikaelJG/resa" target="_blank"> <img src="https://github.com/MikaelJG/resa/blob/master/assets/resa_logo3.png" alt="resa" width="100" height="100"/></a></p>
+<a href="https://github.com/MikaelJG/noti" target="_blank"> <img src="https://github.com/MikaelJG/noti/blob/master/assets/noti_logo2.png" alt="noti" width="100" height="100"/> </a></p>
   
 
 <h3 align="left">Currently learning</h3>
