@@ -8,11 +8,6 @@
 
 <h2 align="left">Working on                             Learning</h2>
 <a href="https://github.com/MikaelJG/noti" target="_blank"> <img src="https://github.com/MikaelJG/noti/blob/master/assets/noti_logo2.png" alt="noti" width="80" height="80"/> </a>                                    <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>  </a> </a><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>  </a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MikaelJG/assets/blob/master/unity2.png" alt="unity" width="57" height="63"/>   </a></p>
-
-<h3 align="left">Contact</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mikaeljgonsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mikael Gonsalves" height="30" width="40" /></a>
-</p>
 <!-- 
 **MikaelJG/MikaelJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
