@@ -15,7 +15,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="65"/></a> 
 
 <h2 align="left">Projects                             Learning</h2>
-<a href="https://github.com/MikaelJG/noti" target="_blank"> <img src="https://github.com/MikaelJG/noti/blob/master/assets/noti_logo2.png" alt="noti" width="80" height="80"/> </a>                                            <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
+<a href="https://github.com/MikaelJG/noti" target="_blank"> <img src="https://github.com/MikaelJG/noti/blob/master/assets/noti_logo2.png" alt="noti" width="80" height="80"/> </a>                                            
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg" alt="python" width="65" height="65"/></a> 
 <!-- 
 **MikaelJG/MikaelJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
