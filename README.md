@@ -13,7 +13,6 @@
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="65" height="65"/></a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="65" height="65"/></a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="65"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/></a> <img src="https://github.com/MikaelJG/assets/blob/master/pngegg.png" alt="bash" width="65" height="65"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"></p>
 
 <h2 align="left">Projects                             Learning</h2>
 <a href="https://github.com/MikaelJG/noti" target="_blank"> <img src="https://github.com/MikaelJG/noti/blob/master/assets/noti_logo2.png" alt="noti" width="80" height="80"/> </a>                                            <a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
